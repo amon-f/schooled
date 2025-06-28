@@ -122,7 +122,7 @@ nav ul li a:hover {
     background: linear-gradient(to bottom, transparent, #071629);
     padding: 80px 20px;
     text-align: center;
-    margin-top: -180px; /* This pulls it upward */
+    margin-top: -180px; 
     position: relative;
     z-index: 2;
 }
@@ -195,3 +195,53 @@ nav ul li a:hover {
         gap: 10px;
     }
 }
+
+/* === Testimonial Section === */
+.testimonial {
+    background-color: #C271FF;
+    padding: 60px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: left;
+}
+
+.testimonial-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    max-width: 900px;
+    width: 100%;
+    flex-wrap: wrap; /* responsive on small screens */
+}
+
+.testimonial-image img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.testimonial-text {
+    flex: 1;
+}
+
+.testimonial blockquote {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.testimonial h3 {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.author-role {
+    font-style: italic;
+    color: #e0cfff;
+    font-size: 14px;
+}
+
