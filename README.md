@@ -4,7 +4,7 @@ SmileSchool is a responsive, visually engaging website. The site is styled with 
 
 ## Live Demo
 
-(Include link here if deployed)
+https://amon-f.github.io/schooled/
 
 
 ## Project Structure
