@@ -349,3 +349,43 @@ nav ul li a:hover {
     transform: translate(-50%, -50%) scale(1.1);
     transition: transform 0.3s ease;
 }
+
+/* ============= FREE MEMBERSHIP SECTION ============= */
+.membership {
+  background-color: #071629;
+}
+
+.membership h2 {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.membership .highlight {
+  color: #C271FF;
+  font-weight: bold;
+}
+
+.membership .benefit img {
+  margin-bottom: 10px;
+}
+
+.membership .benefit h3 {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.membership .benefit p {
+  color: #ccc;
+  font-size: 14px;
+}
+
+.membership .cta-button {
+  background:  #C271FF;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 50px;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 30px;
+}
