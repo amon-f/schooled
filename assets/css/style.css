@@ -389,3 +389,25 @@ nav ul li a:hover {
   font-weight: bold;
   margin-top: 30px;
 }
+
+/* =============== FAQ SECTION =============== */
+
+.faq-section {
+  background-color: #fff;
+  color: #071629;
+}
+
+.faq-section h2 {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.faq-section h5 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.faq-section p {
+  font-size: 14px;
+  line-height: 1.7;
+}
