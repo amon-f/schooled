@@ -9,7 +9,7 @@ SmileSchool is a responsive, visually engaging website. The site is styled with 
 
 ## Project Structure
 
-![File Structure] (/assets/img/structure.png)
+![File Structure](assets/img/structure.png)
 
 ## Features
 
@@ -32,7 +32,7 @@ SmileSchool is a responsive, visually engaging website. The site is styled with 
 
 ## Figma Design
 
-![School Page Design] (/assets/img/School Page.png)
+![Figma Design](assets/img/school_page.png)
 
 
 ## Setup Instructions
